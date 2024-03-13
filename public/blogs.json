@@ -4,49 +4,54 @@
     "cover": "https://i.ibb.co/crXL9wf/toy-bricks-table.jpg",
     "title": "The Mystery of the Hidden Treasure",
     "author": "John Smith",
-    "author_img": "https://example.com/author1.jpg",
+    "author_img": "../src/assets/images/boy1.png",
     "posted_date": "2024-03-13",
     "reading_title": "Chapter 1: The Discovery",
-    "hashtags": ["mystery", "adventure", "treasure"]
+    "hashtags": ["mystery", "adventure", "treasure"],
+    "reading_time": 9
   },
   {
     "id": 2,
     "cover": "https://i.ibb.co/3zRn1fX/technology-communication-icons-symbols-concept.jpg",
     "title": "Lost in the Wilderness",
     "author": "Emily Johnson",
-    "author_img": "https://example.com/author2.jpg",
+    "author_img": "../src/assets/images/boy2.png",
     "posted_date": "2024-03-12",
     "reading_title": "Prologue: The Journey Begins",
-    "hashtags": ["wilderness", "survival", "exploration"]
+    "hashtags": ["wilderness", "survival", "exploration"],
+    "reading_time": 8
   },
   {
     "id": 3,
     "cover": "https://i.ibb.co/X2z0GsW/laptop-office-plant-black-background-top-view.jpg",
     "title": "The Secret Code",
     "author": "Michael Brown",
-    "author_img": "https://example.com/author3.jpg",
+    "author_img": "../src/assets/images/girl1.jpg",
     "posted_date": "2024-03-11",
     "reading_title": "Chapter 1: Deciphering Clues",
-    "hashtags": ["code", "puzzle", "mystery"]
+    "hashtags": ["code", "puzzle", "mystery"],
+    "reading_time": 7
   },
   {
     "id": 4,
     "cover": "https://i.ibb.co/F8SXNYx/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
     "title": "Escape from the Island",
     "author": "Sarah Davis",
-    "author_img": "https://example.com/author4.jpg",
+    "author_img": "../src/assets/images/girl2.jpg",
     "posted_date": "2024-03-10",
     "reading_title": "Chapter 1: Shipwrecked",
-    "hashtags": ["island", "escape", "survival"]
+    "hashtags": ["island", "escape", "survival"],
+    "reading_time": 6
   },
   {
     "id": 5,
     "cover": "https://i.ibb.co/tCGHgTq/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
     "title": "The Time Traveler's Dilemma",
     "author": "Robert Clark",
-    "author_img": "https://example.com/author5.jpg",
+    "author_img": "../src/assets/images/boy1.png",
     "posted_date": "2024-03-09",
     "reading_title": "Prologue: The Experiment",
-    "hashtags": ["timetravel", "sciencefiction", "paradox"]
+    "hashtags": ["timetravel", "sciencefiction", "paradox"],
+    "reading_time": 5
   }
 ]
